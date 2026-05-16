@@ -52,15 +52,6 @@ restaurant-project/
 ├── script.js
 └── README.md
 ```bash
-restaurant-website/
-│
-├── hotel_star_inn_final_balanced.html
-├── style.css
-├── script.js
-├── assets/
-│   ├── images/
-│   └── icons/
-└── README.md
 
 ⸻
 
