@@ -76,12 +76,6 @@ Simply download or clone the project and open index.html in your browser.
 
 ⸻
 
-🌐 Preview
-
-Open the hotel hotel_star_inn_final_balanced.html file in your browser to view the project locally.
-
-⸻
-
 🎯 Purpose of the Project
 
 This project was created to practice frontend web development and improve UI design skills by building a visually appealing restaurant-themed HTML page.
