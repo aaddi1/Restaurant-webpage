@@ -25,14 +25,6 @@ A modern and responsive luxury hotel-themed single-file HTML project created to 
 
 ⸻
 
-📸 Preview
-
-Add screenshots or GIFs of your project here.
-
-![Homepage Screenshot](images/homepage.png)
-
-⸻
-
 📂 Project Structure
 
 hotel-star-inn/
