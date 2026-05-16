@@ -40,18 +40,6 @@ hotel-star-inn/
 ├── hotel_star_inn_final_balanced.html
 └── README.md
 ```bash
-restaurant-project/
-│
-├── hotel_star_inn_final_balanced.html
-└── README.md
-```bash
-restaurant-project/
-│
-├── hotel_star_inn_final_balanced.html
-├── style.css
-├── script.js
-└── README.md
-```bash
 
 ⸻
 
